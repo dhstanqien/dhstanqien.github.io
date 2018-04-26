@@ -15,7 +15,20 @@ p{
 font-family: verdana;
 }
 
-body{
+body{<!DOCTYPE html>
+<html>
+<body>
+<h1> All About Me</h1>
+<title>
+Tan Qi En's Portfolio </title>
+<img src="https://dhis.dhs.sg/data/photos/5DC94197-332D-4826-9D92-9E858CD35D46.jpg"/>
+<p>
+My name is Tan Qi En. I am a student of Dunman High School. I am currently in year 1. </p>
+<br>
+<p> My hobblies include: eating, "Instagramming", playing games and snacking. </p> 
+   <p><a href="/cca.html">View My CCA</a>
+</body>
+</html>
 background-colour: #ff0000
 }
 
